@@ -2,4 +2,4 @@
 
 Code for my bachelor thesis.
 
-Requires tensorflow 2.3, required cuda packages and Unity 2020.3.7f1
+Requires tensorflow 2.3, compatible cuda packages and Unity 2020.3.7f1
